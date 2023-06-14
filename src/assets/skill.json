@@ -1,0 +1,29 @@
+{
+   "languages": [
+     {
+       "name": "C++",
+       "width": "60%"
+     },
+     {
+       "name": "C",
+       "width": "55%"
+     },
+
+     {
+       "name": "Html",
+       "width": "50%"
+     },
+     {
+       "name": "Css",
+       "width": "45%"
+     },
+     {
+       "name": "JavaScript",
+       "width": "60%"
+     },
+     {
+       "name": "ReactJs",
+       "width": "40%"
+     }
+   ]
+}

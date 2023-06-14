@@ -1,3 +1,4 @@
+
 @keyframes animateSvg {
   to {
     transform: translate(-50%, -10px);
@@ -9,9 +10,7 @@
     transform: translateY(-5px);
   }
 }
-
-@keyframes upupdowndown {
-  to {
-    transform: translateY(-10px);
-  }
+@keyframes skills {
+  0%{width: 0%;} 100%{ width: attr(width);}
 }
+
